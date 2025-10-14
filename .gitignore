@@ -1,0 +1,27 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+*.egg-info/
+*.npz
+
+# ---- Virtual environment ----
+.venv/
+env/
+venv/
+
+# ---- Jupyter Notebooks ----
+.ipynb_checkpoints/
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
+
+# ---- VSCode ----
+.vscode/
+
+# ---- Git ----
+Lean/
